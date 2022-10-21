@@ -1,0 +1,4 @@
+ulubione jedzenie:
+-pizza
+-pierogi
+-wegiel
